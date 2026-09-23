@@ -17,11 +17,11 @@
                 "id": 20773773,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:55:50Z",
-                "open_issues": 1773,
+                "last_commit": "2026-09-23T06:47:15Z",
+                "open_issues": 1762,
                 "owner": "bazelbuild",
                 "repo": "bazel",
-                "stars": 25874,
+                "stars": 25878,
                 "topics": [
                   "bazel",
                   "build",
@@ -38,7 +38,7 @@
             {
               "node_type": "item",
               "title": "🌎 Gradle",
-              "description": "Another build automation system. ( 18846⭐ 5335🍴 Source Code))",
+              "description": "Another build automation system. ( 18850⭐ 5335🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -47,8 +47,8 @@
                 "id": 302322,
                 "language": "Groovy",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:51:31Z",
-                "open_issues": 3511,
+                "last_commit": "2026-09-23T06:57:31Z",
+                "open_issues": 3508,
                 "owner": "gradle",
                 "repo": "gradle",
                 "stars": 18850,
@@ -67,7 +67,7 @@
             {
               "node_type": "item",
               "title": "🌎 Apache Maven",
-              "description": "Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ( 5352⭐ 3123🍴 Source Code))",
+              "description": "Build automation tool mainly for Java. A software project management and comprehension tool. Based on the concept of a project object model (POM), Maven can manage a project's build, reporting and documentation from a central piece of information. ( 5355⭐ 3126🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -76,11 +76,11 @@
                 "id": 206483,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:50:51Z",
-                "open_issues": 676,
+                "last_commit": "2026-09-23T06:13:05Z",
+                "open_issues": 677,
                 "owner": "apache",
                 "repo": "maven",
-                "stars": 5355,
+                "stars": 5356,
                 "topics": [
                   "apache-maven",
                   "build-management",
@@ -199,7 +199,7 @@
                 "open_issues": 34,
                 "owner": "OpenVoxProject",
                 "repo": "openbolt",
-                "stars": 32,
+                "stars": 33,
                 "topics": [
                   "hacktoberfest"
                 ]
@@ -216,7 +216,7 @@
             {
               "node_type": "item",
               "title": "🌎 rclone",
-              "description": "Command-line program to sync files and directories to and from different cloud storage providers.. ( 59853⭐ 5413🍴 Source Code))",
+              "description": "Command-line program to sync files and directories to and from different cloud storage providers.. ( 59879⭐ 5418🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -225,11 +225,11 @@
                 "id": 17803236,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T17:19:16Z",
-                "open_issues": 1270,
+                "last_commit": "2026-09-22T16:44:59Z",
+                "open_issues": 1268,
                 "owner": "rclone",
                 "repo": "rclone",
-                "stars": 59879,
+                "stars": 59900,
                 "topics": [
                   "azure-blob",
                   "azure-blob-storage",
@@ -258,7 +258,7 @@
             {
               "node_type": "item",
               "title": "🌎 Restic",
-              "description": "Easy, fast, verifiable, secure and efficient remote backup tool. ( 36145⭐ 1877🍴 Source Code))",
+              "description": "Easy, fast, verifiable, secure and efficient remote backup tool. ( 36177⭐ 1880🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -268,10 +268,10 @@
                 "language": "Go",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-09-20T20:05:21Z",
-                "open_issues": 591,
+                "open_issues": 592,
                 "owner": "restic",
                 "repo": "restic",
-                "stars": 36176,
+                "stars": 36197,
                 "topics": [
                   "backup",
                   "dedupe",
@@ -286,7 +286,7 @@
             {
               "node_type": "item",
               "title": "🌎 Duplicati",
-              "description": "Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ( 15015⭐ 1073🍴 Source Code))",
+              "description": "Backup client that securely stores encrypted, incremental, compressed backups on cloud storage services and remote file servers. ( 15018⭐ 1073🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -295,11 +295,11 @@
                 "id": 22636263,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T15:25:58Z",
-                "open_issues": 635,
+                "last_commit": "2026-09-22T14:58:46Z",
+                "open_issues": 639,
                 "owner": "duplicati",
                 "repo": "duplicati",
-                "stars": 15018,
+                "stars": 15020,
                 "topics": [
                   "backup",
                   "c-sharp",
@@ -319,7 +319,7 @@
             {
               "node_type": "item",
               "title": "🌎 BorgBackup",
-              "description": "Deduplicating archiver with compression and authenticated encryption. ( 13742⭐ 874🍴 Source Code))",
+              "description": "Deduplicating archiver with compression and authenticated encryption. ( 13751⭐ 874🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -328,11 +328,11 @@
                 "id": 35517126,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T05:47:24Z",
-                "open_issues": 206,
+                "last_commit": "2026-09-23T00:25:48Z",
+                "open_issues": 202,
                 "owner": "borgbackup",
                 "repo": "borg",
-                "stars": 13750,
+                "stars": 13757,
                 "topics": [
                   "backup",
                   "borgbackup",
@@ -348,7 +348,7 @@
             {
               "node_type": "item",
               "title": "🌎 Databasus",
-              "description": "PostgreSQL, MySQL, MariaDB and MongoDB backup tool with web UI, external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management. ( 8602⭐ 541🍴 Source Code))",
+              "description": "PostgreSQL, MySQL, MariaDB and MongoDB backup tool with web UI, external storages (local, S3, FTP, Google Drive, etc.), notifications (webhook, Discord, Slack, etc.) and team management. ( 8622⭐ 542🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -357,11 +357,11 @@
                 "id": 996785011,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T21:15:28Z",
-                "open_issues": 9,
+                "last_commit": "2026-09-22T19:20:44Z",
+                "open_issues": 1,
                 "owner": "databasus",
                 "repo": "databasus",
-                "stars": 8621,
+                "stars": 8627,
                 "topics": [
                   "backup",
                   "backups",
@@ -389,7 +389,7 @@
             {
               "node_type": "item",
               "title": "🌎 Backrest",
-              "description": "Backrest is a web UI and orchestrator for restic backup. ( 7373⭐ 214🍴 Source Code))",
+              "description": "Backrest is a web UI and orchestrator for restic backup. ( 7381⭐ 214🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,10 +399,10 @@
                 "language": "TypeScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T13:26:46Z",
-                "open_issues": 369,
+                "open_issues": 371,
                 "owner": "garethgeorge",
                 "repo": "backrest",
-                "stars": 7379,
+                "stars": 7390,
                 "topics": [
                   "backups",
                   "restic",
@@ -415,7 +415,7 @@
             {
               "node_type": "item",
               "title": "🌎 Rsnapshot",
-              "description": "Filesystem snapshot utility based on rsync. ( 3681⭐ 270🍴 Source Code))",
+              "description": "Filesystem snapshot utility based on rsync. ( 3683⭐ 271🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -428,7 +428,7 @@
                 "open_issues": 58,
                 "owner": "rsnapshot",
                 "repo": "rsnapshot",
-                "stars": 3683,
+                "stars": 3684,
                 "topics": [
                   "backup",
                   "perl",
@@ -441,7 +441,7 @@
             {
               "node_type": "item",
               "title": "🌎 Barman",
-              "description": "Backup and Recovery Manager for PostgreSQL. ( 3243⭐ 271🍴 Source Code))",
+              "description": "Backup and Recovery Manager for PostgreSQL. ( 3244⭐ 271🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -468,7 +468,7 @@
             {
               "node_type": "item",
               "title": "🌎 Portabase",
-              "description": "Server dashboard tool that simplifies the backup and restoration of your database instances. ( 1753⭐ 117🍴 Source Code))",
+              "description": "Server dashboard tool that simplifies the backup and restoration of your database instances. ( 1759⭐ 117🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,11 +477,11 @@
                 "id": 875146326,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T11:41:55Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-22T11:25:46Z",
+                "open_issues": 34,
                 "owner": "Portabase",
                 "repo": "portabase",
-                "stars": 1759,
+                "stars": 1761,
                 "topics": [
                   "backup",
                   "backup-tool",
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "🌎 Rdiff-backup",
-              "description": "Reverse differential backup tool, over a network or locally. ( 1265⭐ 100🍴 Source Code))",
+              "description": "Reverse differential backup tool, over a network or locally. ( 1266⭐ 100🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -538,7 +538,7 @@
             {
               "node_type": "item",
               "title": "🌎 Bareos",
-              "description": "Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ( 1253⭐ 316🍴 Source Code))",
+              "description": "Cross-network backup solution which preserves, archives, and recovers data from all major operating systems. ( 1254⭐ 315🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -547,8 +547,8 @@
                 "id": 12057328,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T22:12:18Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-22T14:43:49Z",
+                "open_issues": 89,
                 "owner": "bareos",
                 "repo": "bareos",
                 "stars": 1254,
@@ -592,7 +592,7 @@
                 "open_issues": 9,
                 "owner": "uroni",
                 "repo": "urbackup_backend",
-                "stars": 920,
+                "stars": 921,
                 "topics": [
                   "backup",
                   "backup-solution",
@@ -638,7 +638,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-21T18:46:19Z",
-                "open_issues": 28,
+                "open_issues": 27,
                 "owner": "shieldproject",
                 "repo": "shield",
                 "stars": 402,
@@ -730,7 +730,7 @@
             {
               "node_type": "item",
               "title": "🌎 Spack",
-              "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ( 5126⭐ 2462🍴 Source Code))",
+              "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers. ( 5128⭐ 2464🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -739,11 +739,11 @@
                 "id": 15730865,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T22:45:39Z",
-                "open_issues": 1812,
+                "last_commit": "2026-09-23T06:49:07Z",
+                "open_issues": 1807,
                 "owner": "spack",
                 "repo": "spack",
-                "stars": 5128,
+                "stars": 5130,
                 "topics": [
                   "build-tools",
                   "hpc",
@@ -772,7 +772,7 @@
                 "id": 84907885,
                 "language": "Tcl",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T19:36:30Z",
+                "last_commit": "2026-09-23T06:14:17Z",
                 "open_issues": 26,
                 "owner": "envmodules",
                 "repo": "modules",
@@ -805,7 +805,7 @@
                 "open_issues": 25,
                 "owner": "TACC",
                 "repo": "Lmod",
-                "stars": 610,
+                "stars": 612,
                 "topics": [
                   "environment-modules",
                   "hpc",
@@ -820,7 +820,7 @@
             {
               "node_type": "item",
               "title": "🌎 EasyBuild",
-              "description": "EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ( 449⭐ 796🍴 Source Code))",
+              "description": "EasyBuild builds software and modulefiles for High Performance Computing (HPC) systems in an efficient way. ( 449⭐ 797🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -829,8 +829,8 @@
                 "id": 6228403,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T22:29:33Z",
-                "open_issues": 1148,
+                "last_commit": "2026-09-22T23:01:18Z",
+                "open_issues": 1149,
                 "owner": "easybuilders",
                 "repo": "easybuild-easyconfigs",
                 "stars": 449,
@@ -853,7 +853,7 @@
             {
               "node_type": "item",
               "title": "🌎 Hubot",
-              "description": "A customizable, life embetterment robot. ( 16795⭐ 3709🍴 Source Code))",
+              "description": "A customizable, life embetterment robot. ( 16796⭐ 3710🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -878,7 +878,7 @@
             {
               "node_type": "item",
               "title": "🌎 Errbot",
-              "description": "Plugin based chatbot designed to be easily deployable, extensible and maintainable. ( 3306⭐ 624🍴 Source Code))",
+              "description": "Plugin based chatbot designed to be easily deployable, extensible and maintainable. ( 3308⭐ 625🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "🌎 Eggdrop",
-              "description": "The oldest Internet Relay Chat (IRC) bot still in active development. ( 582⭐ 101🍴 Source Code))",
+              "description": "The oldest Internet Relay Chat (IRC) bot still in active development. ( 582⭐ 102🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -919,8 +919,8 @@
                 "id": 44209137,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-20T02:14:33Z",
-                "open_issues": 256,
+                "last_commit": "2026-09-22T22:42:49Z",
+                "open_issues": 257,
                 "owner": "eggheads",
                 "repo": "eggdrop",
                 "stars": 582,
@@ -946,7 +946,7 @@
             {
               "node_type": "item",
               "title": "🌎 Ansible",
-              "description": "Provisioning, configuration management, and application-deployment tool. ( 70742⭐ 24334🍴 Source Code))",
+              "description": "Provisioning, configuration management, and application-deployment tool. ( 70764⭐ 24334🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,11 +955,11 @@
                 "id": 3638964,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T21:16:17Z",
+                "last_commit": "2026-09-22T15:23:51Z",
                 "open_issues": 836,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70760,
+                "stars": 70776,
                 "topics": [
                   "ansible",
                   "python"
@@ -970,7 +970,7 @@
             {
               "node_type": "item",
               "title": "🌎 Salt",
-              "description": "Event-driven IT automation, remote task execution, and configuration management software. ( 15666⭐ 5611🍴 Source Code))",
+              "description": "Event-driven IT automation, remote task execution, and configuration management software. ( 15670⭐ 5612🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -979,11 +979,11 @@
                 "id": 1390248,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T21:19:46Z",
-                "open_issues": 1889,
+                "last_commit": "2026-09-23T06:43:42Z",
+                "open_issues": 1892,
                 "owner": "saltstack",
                 "repo": "salt",
-                "stars": 15670,
+                "stars": 15672,
                 "topics": [
                   "cloud",
                   "cloud-management",
@@ -1009,7 +1009,7 @@
             {
               "node_type": "item",
               "title": "🌎 cloud-init",
-              "description": "Initialization tool to automate the configuration of VMs, cloud instances, or machines on a network. ( 3818⭐ 1142🍴 Source Code))",
+              "description": "Initialization tool to automate the configuration of VMs, cloud instances, or machines on a network. ( 3818⭐ 1144🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1019,10 +1019,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T23:11:44Z",
-                "open_issues": 614,
+                "open_issues": 615,
                 "owner": "canonical",
                 "repo": "cloud-init",
-                "stars": 3818,
+                "stars": 3819,
                 "topics": [
                   "cloud-init",
                   "hacktoberfest",
@@ -1043,7 +1043,7 @@
                 "id": 2528254,
                 "language": "Scala",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T17:22:35Z",
+                "last_commit": "2026-09-22T08:00:51Z",
                 "open_issues": 43,
                 "owner": "Normation",
                 "repo": "rudder",
@@ -1067,7 +1067,7 @@
             {
               "node_type": "item",
               "title": "🌎 CFEngine",
-              "description": "Configuration management system for automated configuration and maintenance of large-scale computer systems. ( 536⭐ 202🍴 Source Code))",
+              "description": "Configuration management system for automated configuration and maintenance of large-scale computer systems. ( 537⭐ 202🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1077,7 +1077,7 @@
                 "language": "C",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-18T20:02:13Z",
-                "open_issues": 10,
+                "open_issues": 13,
                 "owner": "cfengine",
                 "repo": "core",
                 "stars": 537,
@@ -1124,7 +1124,7 @@
             {
               "node_type": "item",
               "title": "🌎 netbox",
-              "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool. 🌎 Demo, 21559⭐ 3122🍴 Source Code))",
+              "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool. 🌎 Demo, 21581⭐ 3125🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,11 +1133,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T05:03:01Z",
-                "open_issues": 223,
+                "last_commit": "2026-09-22T20:16:38Z",
+                "open_issues": 227,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21580,
+                "stars": 21584,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -1155,7 +1155,7 @@
             {
               "node_type": "item",
               "title": "🌎 iTop",
-              "description": "Complete ITIL web based service management tool. ( 1184⭐ 297🍴 Source Code))",
+              "description": "Complete ITIL web based service management tool. ( 1185⭐ 298🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1165,10 +1165,10 @@
                 "language": "PHP",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-21T07:51:04Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "Combodo",
                 "repo": "iTop",
-                "stars": 1184,
+                "stars": 1185,
                 "topics": [
                   "cmdb",
                   "hacktoberfest",
@@ -1193,7 +1193,7 @@
             {
               "node_type": "item",
               "title": "🌎 Harness",
-              "description": "End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ( 38404⭐ 3402🍴 Source Code))",
+              "description": "End-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries (fork of Drone). ( 38416⭐ 3405🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1206,7 +1206,7 @@
                 "open_issues": 111,
                 "owner": "harness",
                 "repo": "harness",
-                "stars": 38416,
+                "stars": 38422,
                 "topics": [
                   "build-automation",
                   "build-pipelines",
@@ -1236,11 +1236,11 @@
                 "id": 1103607,
                 "language": "Java",
                 "license": "MIT",
-                "last_commit": "2026-09-22T06:06:50Z",
-                "open_issues": 3613,
+                "last_commit": "2026-09-23T02:25:22Z",
+                "open_issues": 3612,
                 "owner": "jenkinsci",
                 "repo": "jenkins",
-                "stars": 26575,
+                "stars": 26579,
                 "topics": [
                   "cicd",
                   "continuous-delivery",
@@ -1259,7 +1259,7 @@
             {
               "node_type": "item",
               "title": "🌎 ArgoCD",
-              "description": "Declarative, GitOps continuous delivery tool for Kubernetes. ( 24203⭐ 7859🍴 Source Code))",
+              "description": "Declarative, GitOps continuous delivery tool for Kubernetes. ( 24215⭐ 7869🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1268,11 +1268,11 @@
                 "id": 120896210,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:18:11Z",
-                "open_issues": 4360,
+                "last_commit": "2026-09-23T05:56:33Z",
+                "open_issues": 4366,
                 "owner": "argoproj",
                 "repo": "argo-cd",
-                "stars": 24214,
+                "stars": 24223,
                 "topics": [
                   "argo",
                   "argo-cd",
@@ -1297,7 +1297,7 @@
             {
               "node_type": "item",
               "title": "🌎 Woodpecker",
-              "description": "Community fork of Drone that uses Docker containers. ( 7896⭐ 680🍴 Source Code))",
+              "description": "Community fork of Drone that uses Docker containers. ( 7905⭐ 684🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1307,10 +1307,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-21T21:58:06Z",
-                "open_issues": 378,
+                "open_issues": 380,
                 "owner": "woodpecker-ci",
                 "repo": "woodpecker",
-                "stars": 7905,
+                "stars": 7907,
                 "topics": [
                   "automation",
                   "ci",
@@ -1326,7 +1326,7 @@
             {
               "node_type": "item",
               "title": "🌎 Concourse",
-              "description": "Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. 🌎 Demo, 7903⭐ 903🍴 Source Code))",
+              "description": "Concourse is a CI tool that treats pipelines as first class objects and containerizes every step along the way. 🌎 Demo, 7904⭐ 903🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1339,7 +1339,7 @@
                 "open_issues": 89,
                 "owner": "concourse",
                 "repo": "concourse",
-                "stars": 7904,
+                "stars": 7905,
                 "topics": [
                   "ci",
                   "ci-cd",
@@ -1391,7 +1391,7 @@
             {
               "node_type": "item",
               "title": "🌎 Buildbot",
-              "description": "Python-based toolkit for continuous integration. ( 5473⭐ 1675🍴 Source Code))",
+              "description": "Python-based toolkit for continuous integration. ( 5474⭐ 1676🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1401,7 +1401,7 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-21T20:00:12Z",
-                "open_issues": 815,
+                "open_issues": 816,
                 "owner": "buildbot",
                 "repo": "buildbot",
                 "stars": 5474,
@@ -1426,11 +1426,11 @@
                 "id": 70572539,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-22T06:42:20Z",
-                "open_issues": 161,
+                "last_commit": "2026-09-22T17:05:19Z",
+                "open_issues": 163,
                 "owner": "ovh",
                 "repo": "cds",
-                "stars": 4843,
+                "stars": 4844,
                 "topics": [
                   "automation",
                   "continuous-delivery",
@@ -1456,8 +1456,8 @@
                 "id": 50365232,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T01:00:36Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-22T20:08:23Z",
+                "open_issues": 31,
                 "owner": "werf",
                 "repo": "werf",
                 "stars": 4723,
@@ -1484,7 +1484,7 @@
             {
               "node_type": "item",
               "title": "🌎 Stategraph",
-              "description": "GitOps-first automation platform for Terraform and OpenTofu workflows with support for self-hosted runners. ( 1282⭐ 76🍴 Source Code))",
+              "description": "GitOps-first automation platform for Terraform and OpenTofu workflows with support for self-hosted runners. ( 1284⭐ 77🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1493,8 +1493,8 @@
                 "id": 866997913,
                 "language": "OCaml",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-21T19:13:22Z",
-                "open_issues": 112,
+                "last_commit": "2026-09-22T19:16:18Z",
+                "open_issues": 113,
                 "owner": "stategraph",
                 "repo": "stategraph",
                 "stars": 1284,
@@ -1585,7 +1585,7 @@
             {
               "node_type": "item",
               "title": "🌎 Cockpit",
-              "description": "Web-based graphical interface for servers. ( 15110⭐ 1342🍴 Source Code))",
+              "description": "Web-based graphical interface for servers. ( 15125⭐ 1347🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1594,11 +1594,11 @@
                 "id": 14049216,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-21T14:20:30Z",
-                "open_issues": 491,
+                "last_commit": "2026-09-22T14:59:57Z",
+                "open_issues": 488,
                 "owner": "cockpit-project",
                 "repo": "cockpit",
-                "stars": 15122,
+                "stars": 15135,
                 "topics": [
                   "cockpit",
                   "javascript",
@@ -1639,7 +1639,7 @@
             {
               "node_type": "item",
               "title": "🌎 MeshCentral",
-              "description": "A complete web-based remote monitoring and management web site. ( 7252⭐ 994🍴 Source Code))",
+              "description": "A complete web-based remote monitoring and management web site. ( 7268⭐ 1000🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1649,10 +1649,10 @@
                 "language": "HTML",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T18:59:46Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "Ylianst",
                 "repo": "MeshCentral",
-                "stars": 7268,
+                "stars": 7275,
                 "topics": [
                   "amt",
                   "file-transfer",
@@ -1667,7 +1667,7 @@
             {
               "node_type": "item",
               "title": "🌎 Webmin",
-              "description": "Web-based interface for system administration for Unix. ( 6065⭐ 794🍴 Source Code))",
+              "description": "Web-based interface for system administration for Unix. ( 6068⭐ 794🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1676,7 +1676,7 @@
                 "id": 256164,
                 "language": "HTML",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T04:16:04Z",
+                "last_commit": "2026-09-22T16:14:48Z",
                 "open_issues": 120,
                 "owner": "webmin",
                 "repo": "webmin",
@@ -1688,7 +1688,7 @@
             {
               "node_type": "item",
               "title": "🌎 HestiaCP",
-              "description": "Web server control panel (fork of VestaCP). 🌎 Demo, 4499⭐ 945🍴 Source Code))",
+              "description": "Web server control panel (fork of VestaCP). 🌎 Demo, 4503⭐ 945🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1698,10 +1698,10 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T08:20:33Z",
-                "open_issues": 146,
+                "open_issues": 145,
                 "owner": "hestiacp",
                 "repo": "hestiacp",
-                "stars": 4503,
+                "stars": 4504,
                 "topics": [
                   "apache2",
                   "control-panel",
@@ -1756,7 +1756,7 @@
             {
               "node_type": "item",
               "title": "🌎 Fabric",
-              "description": "Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ( 15505⭐ 1951🍴 Source Code))",
+              "description": "Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks. ( 15506⭐ 1950🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1769,7 +1769,7 @@
                 "open_issues": 509,
                 "owner": "fabric",
                 "repo": "fabric",
-                "stars": 15506,
+                "stars": 15507,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -1790,7 +1790,7 @@
                 "open_issues": 74,
                 "owner": "capistrano",
                 "repo": "capistrano",
-                "stars": 13001,
+                "stars": 13002,
                 "topics": [
                   "capistrano",
                   "deployment",
@@ -1803,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "🌎 munki",
-              "description": "Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ( 3474⭐ 371🍴 Source Code))",
+              "description": "Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs. ( 3473⭐ 371🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1813,10 +1813,10 @@
                 "language": "Swift",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T20:16:38Z",
-                "open_issues": 67,
+                "open_issues": 68,
                 "owner": "munki",
                 "repo": "munki",
-                "stars": 3473,
+                "stars": 3472,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "🌎 CloudStack",
-              "description": "Cloud computing software for creating, managing, and deploying infrastructure cloud services. ( 3075⭐ 1385🍴 Source Code))",
+              "description": "Cloud computing software for creating, managing, and deploying infrastructure cloud services. ( 3078⭐ 1385🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1833,8 +1833,8 @@
                 "id": 9759448,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T08:44:17Z",
-                "open_issues": 1065,
+                "last_commit": "2026-09-22T15:08:41Z",
+                "open_issues": 1070,
                 "owner": "apache",
                 "repo": "cloudstack",
                 "stars": 3078,
@@ -1926,7 +1926,7 @@
                 "id": 588595239,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T13:09:29Z",
+                "last_commit": "2026-09-22T10:36:17Z",
                 "open_issues": 2,
                 "owner": "ku9nov",
                 "repo": "faynoSync",
@@ -2003,7 +2003,7 @@
             {
               "node_type": "item",
               "title": "🌎 Diagrams.net",
-              "description": "A.K.A. 🌎 Draw.io. Easy to use Diagram UI with a plethora of templates. ( 8237⭐ 1247🍴 Source Code))",
+              "description": "A.K.A. 🌎 Draw.io. Easy to use Diagram UI with a plethora of templates. ( 8281⭐ 1250🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2013,10 +2013,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-16T21:48:09Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "jgraph",
                 "repo": "drawio",
-                "stars": 8277,
+                "stars": 8298,
                 "topics": [
                   "diagram",
                   "javascript",
@@ -2028,7 +2028,7 @@
             {
               "node_type": "item",
               "title": "🌎 Mermaid",
-              "description": "Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ( 6813⭐ 1169🍴 Source Code))",
+              "description": "Javascript module with a unique, easy, shorthand syntax. Integrates into several other tools like Grafana. ( 6816⭐ 1172🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2037,11 +2037,11 @@
                 "id": 223260063,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T01:46:54Z",
+                "last_commit": "2026-09-22T08:15:03Z",
                 "open_issues": 95,
                 "owner": "mermaid-js",
                 "repo": "mermaid-live-editor",
-                "stars": 6816,
+                "stars": 6819,
                 "topics": [
                   "diagrams",
                   "mermaid"
@@ -2052,7 +2052,7 @@
             {
               "node_type": "item",
               "title": "🌎 Kroki",
-              "description": "API for generating diagrams from textual descriptions. ( 4338⭐ 317🍴 Source Code))",
+              "description": "API for generating diagrams from textual descriptions. ( 4340⭐ 318🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2061,11 +2061,11 @@
                 "id": 165063056,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-19T10:09:32Z",
-                "open_issues": 142,
+                "last_commit": "2026-09-22T16:59:01Z",
+                "open_issues": 145,
                 "owner": "yuzutech",
                 "repo": "kroki",
-                "stars": 4340,
+                "stars": 4343,
                 "topics": [
                   "api",
                   "blockdiag",
@@ -2100,7 +2100,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "17138⭐ 3170🍴 Kubo",
+              "title": "17140⭐ 3172🍴 Kubo",
               "description": ") - Implementation of IPFS, a global, versioned, peer-to-peer filesystem that seeks to connect all computing devices with the same system of files.",
               "children": [],
               "repo_info": {
@@ -2124,7 +2124,7 @@
             {
               "node_type": "item",
               "title": "🌎 Ceph",
-              "description": "Distributed object, block, and file storage platform. ( 17058⭐ 6504🍴 Source Code))",
+              "description": "Distributed object, block, and file storage platform. ( 17065⭐ 6508🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2133,11 +2133,11 @@
                 "id": 2310495,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:43:16Z",
-                "open_issues": 1468,
+                "last_commit": "2026-09-23T06:57:03Z",
+                "open_issues": 1480,
                 "owner": "ceph",
                 "repo": "ceph",
-                "stars": 17063,
+                "stars": 17067,
                 "topics": [
                   "block-storage",
                   "cloud-storage",
@@ -2166,7 +2166,7 @@
             {
               "node_type": "item",
               "title": "🌎 Hadoop Distributed Filesystem (HDFS)",
-              "description": "Distributed file system that provides high-throughput access to application data. ( 15666⭐ 9243🍴 Source Code))",
+              "description": "Distributed file system that provides high-throughput access to application data. ( 15668⭐ 9245🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2175,8 +2175,8 @@
                 "id": 23418517,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T03:00:36Z",
-                "open_issues": 224,
+                "last_commit": "2026-09-23T04:06:46Z",
+                "open_issues": 223,
                 "owner": "apache",
                 "repo": "hadoop",
                 "stars": 15668,
@@ -2189,7 +2189,7 @@
             {
               "node_type": "item",
               "title": "🌎 JuiceFS",
-              "description": "Distributed POSIX file system built on top of Redis and S3. ( 14442⭐ 1291🍴 Source Code))",
+              "description": "Distributed POSIX file system built on top of Redis and S3. ( 14449⭐ 1292🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2198,11 +2198,11 @@
                 "id": 327859577,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:40:48Z",
-                "open_issues": 208,
+                "last_commit": "2026-09-23T03:26:00Z",
+                "open_issues": 204,
                 "owner": "juicedata",
                 "repo": "juicefs",
-                "stars": 14449,
+                "stars": 14457,
                 "topics": [
                   "bigdata",
                   "cloud-native",
@@ -2244,7 +2244,7 @@
             {
               "node_type": "item",
               "title": "🌎 GlusterFS",
-              "description": "Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ( 5238⭐ 1107🍴 Source Code))",
+              "description": "Software-defined distributed storage that can scale to several petabytes, with interfaces for object, block and file storage. ( 5240⭐ 1107🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2253,11 +2253,11 @@
                 "id": 1377037,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T09:02:38Z",
-                "open_issues": 370,
+                "last_commit": "2026-09-22T09:04:31Z",
+                "open_issues": 365,
                 "owner": "gluster",
                 "repo": "glusterfs",
-                "stars": 5240,
+                "stars": 5241,
                 "topics": [
                   "c",
                   "distributed-systems",
@@ -2294,7 +2294,7 @@
                 "open_issues": 192,
                 "owner": "moosefs",
                 "repo": "moosefs",
-                "stars": 2003,
+                "stars": 2004,
                 "topics": [
                   "backup",
                   "block-storage",
@@ -2353,7 +2353,7 @@
                 "id": 103643202,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T14:43:18Z",
+                "last_commit": "2026-09-22T15:16:35Z",
                 "open_issues": 39,
                 "owner": "LINBIT",
                 "repo": "drbd",
@@ -2398,7 +2398,7 @@
             {
               "node_type": "item",
               "title": "🌎 DNSControl",
-              "description": "Synchronize your DNS to multiple providers from a simple DSL. ( 3944⭐ 540🍴 Source Code))",
+              "description": "Synchronize your DNS to multiple providers from a simple DSL. ( 3952⭐ 540🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2407,11 +2407,11 @@
                 "id": 66963716,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T02:24:32Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-22T16:33:00Z",
+                "open_issues": 44,
                 "owner": "DNSControl",
                 "repo": "dnscontrol",
-                "stars": 3952,
+                "stars": 3955,
                 "topics": [
                   "dns",
                   "dnscontrol",
@@ -2423,7 +2423,7 @@
             },
             {
               "node_type": "item",
-              "title": "3760⭐ 442🍴 octoDNS",
+              "title": "3764⭐ 443🍴 octoDNS",
               "description": ") - DNS as code - Tools for managing DNS across multiple providers.",
               "children": [],
               "repo_info": {
@@ -2437,7 +2437,7 @@
                 "open_issues": 3,
                 "owner": "octodns",
                 "repo": "octodns",
-                "stars": 3764,
+                "stars": 3765,
                 "topics": [
                   "dns",
                   "infrastructure-as-code",
@@ -2480,7 +2480,7 @@
             {
               "node_type": "item",
               "title": "🌎 Poweradmin",
-              "description": "Web-based DNS control panel for PowerDNS server. ( 916⭐ 298🍴 Source Code))",
+              "description": "Web-based DNS control panel for PowerDNS server. ( 917⭐ 298🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2489,8 +2489,8 @@
                 "id": 1482150,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T06:52:35Z",
-                "open_issues": 106,
+                "last_commit": "2026-09-23T05:14:04Z",
+                "open_issues": 107,
                 "owner": "poweradmin",
                 "repo": "poweradmin",
                 "stars": 917,
@@ -2510,7 +2510,7 @@
             {
               "node_type": "item",
               "title": "🌎 DomainMOD",
-              "description": "Manage your domains and other internet assets in a central location. ( 598⭐ 119🍴 Source Code))",
+              "description": "Manage your domains and other internet assets in a central location. ( 599⭐ 119🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2579,7 +2579,7 @@
             {
               "node_type": "item",
               "title": "🌎 CoreDNS",
-              "description": "Flexible DNS server. ( 14330⭐ 2534🍴 Source Code))",
+              "description": "Flexible DNS server. ( 14336⭐ 2532🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2588,11 +2588,11 @@
                 "id": 54230994,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:56:28Z",
-                "open_issues": 276,
+                "last_commit": "2026-09-23T02:08:09Z",
+                "open_issues": 272,
                 "owner": "coredns",
                 "repo": "coredns",
-                "stars": 14335,
+                "stars": 14339,
                 "topics": [
                   "cncf",
                   "coredns",
@@ -2607,7 +2607,7 @@
             {
               "node_type": "item",
               "title": "🌎 Unbound",
-              "description": "Validating, recursive, and caching DNS resolver. ( 4921⭐ 454🍴 Source Code))",
+              "description": "Validating, recursive, and caching DNS resolver. ( 4930⭐ 455🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2616,11 +2616,11 @@
                 "id": 94195301,
                 "language": "C",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T12:13:44Z",
+                "last_commit": "2026-09-22T10:18:54Z",
                 "open_issues": 394,
                 "owner": "NLnetLabs",
                 "repo": "unbound",
-                "stars": 4930,
+                "stars": 4932,
                 "topics": [
                   "dns",
                   "dns-privacy",
@@ -2634,7 +2634,7 @@
             {
               "node_type": "item",
               "title": "🌎 PowerDNS Authoritative Server",
-              "description": "Versatile nameserver which supports a large number of backends. ( 4470⭐ 1023🍴 Source Code))",
+              "description": "Versatile nameserver which supports a large number of backends. ( 4473⭐ 1026🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2643,8 +2643,8 @@
                 "id": 9693534,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-18T19:01:00Z",
-                "open_issues": 925,
+                "last_commit": "2026-09-22T13:57:07Z",
+                "open_issues": 932,
                 "owner": "PowerDNS",
                 "repo": "pdns",
                 "stars": 4473,
@@ -2673,7 +2673,7 @@
                 "id": 94198614,
                 "language": "C",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-17T12:14:28Z",
+                "last_commit": "2026-09-22T13:25:10Z",
                 "open_issues": 77,
                 "owner": "NLnetLabs",
                 "repo": "nsd",
@@ -2718,7 +2718,7 @@
             {
               "node_type": "item",
               "title": "🌎 Vim",
-              "description": "A highly configurable text editor built to enable efficient editing. ( 40902⭐ 6137🍴 Source Code))",
+              "description": "A highly configurable text editor built to enable efficient editing. ( 40916⭐ 6133🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2728,10 +2728,10 @@
                 "language": "Vim Script",
                 "license": "Vim",
                 "last_commit": "2026-09-21T20:42:56Z",
-                "open_issues": 1630,
+                "open_issues": 1633,
                 "owner": "vim",
                 "repo": "vim",
-                "stars": 40916,
+                "stars": 40919,
                 "topics": [
                   "c",
                   "cross-platform",
@@ -2744,7 +2744,7 @@
             {
               "node_type": "item",
               "title": "🌎 VSCodium",
-              "description": "An open source cross-platform extensible code editor based on 🌎 VS Code by Microsoft removing their non-free additions. ( 33313⭐ 1865🍴 Source Code))",
+              "description": "An open source cross-platform extensible code editor based on 🌎 VS Code by Microsoft removing their non-free additions. ( 33337⭐ 1865🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2754,10 +2754,10 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2026-09-16T12:44:42Z",
-                "open_issues": 148,
+                "open_issues": 147,
                 "owner": "VSCodium",
                 "repo": "vscodium",
-                "stars": 33332,
+                "stars": 33346,
                 "topics": [
                   "editor",
                   "floss",
@@ -2771,7 +2771,7 @@
             {
               "node_type": "item",
               "title": "🌎 Micro",
-              "description": "A modern and intuitive terminal-based text editor. ( 29609⭐ 1371🍴 Source Code))",
+              "description": "A modern and intuitive terminal-based text editor. ( 29619⭐ 1374🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2780,11 +2780,11 @@
                 "id": 53632140,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T00:34:53Z",
-                "open_issues": 912,
+                "last_commit": "2026-09-23T00:33:12Z",
+                "open_issues": 914,
                 "owner": "micro-editor",
                 "repo": "micro",
-                "stars": 29616,
+                "stars": 29625,
                 "topics": [
                   "command-line",
                   "cross-platform",
@@ -2801,7 +2801,7 @@
             {
               "node_type": "item",
               "title": "🌎 Notepad++",
-              "description": "GPLv2 multi-language editor with syntax highlighting for Windows. ( 29361⭐ 5370🍴 Source Code))",
+              "description": "GPLv2 multi-language editor with syntax highlighting for Windows. ( 29384⭐ 5370🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2810,11 +2810,11 @@
                 "id": 33014811,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T14:34:58Z",
-                "open_issues": 2928,
+                "last_commit": "2026-09-22T19:39:57Z",
+                "open_issues": 2931,
                 "owner": "notepad-plus-plus",
                 "repo": "notepad-plus-plus",
-                "stars": 29381,
+                "stars": 29392,
                 "topics": [
                   "editor",
                   "notepad",
@@ -2827,7 +2827,7 @@
             {
               "node_type": "item",
               "title": "🌎 GNU Emacs",
-              "description": "An extensible, customizable text editor-and more. ( 5205⭐ 1404🍴 Source Code))",
+              "description": "An extensible, customizable text editor-and more. ( 5208⭐ 1405🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2836,7 +2836,7 @@
                 "id": 22711712,
                 "language": "Emacs Lisp",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T05:00:51Z",
+                "last_commit": "2026-09-22T18:58:53Z",
                 "open_issues": 16,
                 "owner": "emacs-mirror",
                 "repo": "emacs",
@@ -2848,7 +2848,7 @@
             {
               "node_type": "item",
               "title": "🌎 Geany",
-              "description": "GTK2 text editor. ( 3722⭐ 666🍴 Source Code))",
+              "description": "GTK2 text editor. ( 3723⭐ 666🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2858,10 +2858,10 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-14T21:34:32Z",
-                "open_issues": 1280,
+                "open_issues": 1281,
                 "owner": "geany",
                 "repo": "geany",
-                "stars": 3723,
+                "stars": 3725,
                 "topics": [
                   "geany",
                   "ide",
@@ -2873,7 +2873,7 @@
             {
               "node_type": "item",
               "title": "🌎 Brackets",
-              "description": "Code editor for web designers and front-end developers. ( 1516⭐ 194🍴 Source Code))",
+              "description": "Code editor for web designers and front-end developers. ( 1514⭐ 195🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2894,7 +2894,7 @@
             {
               "node_type": "item",
               "title": "781⭐ 31🍴 Atom Community",
-              "description": ") - A fork of 60732⭐ 17167🍴 atom) A hackable text editor from Github.",
+              "description": ") - A fork of 60734⭐ 17167🍴 atom) A hackable text editor from Github.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2907,7 +2907,7 @@
                 "open_issues": 52,
                 "owner": "atom-community",
                 "repo": "atom",
-                "stars": 781,
+                "stars": 782,
                 "topics": [
                   "atom",
                   "hacktoberfest"
@@ -2924,7 +2924,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "6508⭐ 355🍴 lldap",
+              "title": "6512⭐ 355🍴 lldap",
               "description": ") - Light (simplified) LDAP implementation with a simple, intuitive web interface and GraphQL support.",
               "children": [],
               "repo_info": {
@@ -2934,11 +2934,11 @@
                 "id": 343753772,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T06:35:09Z",
+                "last_commit": "2026-09-22T23:17:48Z",
                 "open_issues": 130,
                 "owner": "lldap",
                 "repo": "lldap",
-                "stars": 6512,
+                "stars": 6511,
                 "topics": [
                   "authentication",
                   "ldap",
@@ -2954,7 +2954,7 @@
             {
               "node_type": "item",
               "title": "🌎 FreeRADIUS",
-              "description": "Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ( 2594⭐ 1193🍴 Source Code))",
+              "description": "Multi-protocol policy server (radiusd) that implements RADIUS, DHCP, BFD, and ARP and associated client/PAM library/Apache module. ( 2598⭐ 1193🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2963,11 +2963,11 @@
                 "id": 35649,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-21T19:30:15Z",
+                "last_commit": "2026-09-23T02:00:34Z",
                 "open_issues": 91,
                 "owner": "FreeRADIUS",
                 "repo": "freeradius-server",
-                "stars": 2598,
+                "stars": 2599,
                 "topics": [
                   "aaa",
                   "arp",
@@ -3001,7 +3001,7 @@
                 "language": "PHP",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T07:48:04Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "ltb-project",
                 "repo": "self-service-password",
                 "stars": 1341,
@@ -3017,7 +3017,7 @@
             {
               "node_type": "item",
               "title": "🌎 389 Directory Server",
-              "description": "Enterprise-class Open Source LDAP server for Linux. ( 294⭐ 126🍴 Source Code))",
+              "description": "Enterprise-class Open Source LDAP server for Linux. ( 294⭐ 127🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3026,8 +3026,8 @@
                 "id": 294943581,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T00:26:54Z",
-                "open_issues": 401,
+                "last_commit": "2026-09-23T06:57:27Z",
+                "open_issues": 402,
                 "owner": "389ds",
                 "repo": "389-ds-base",
                 "stars": 294,
@@ -3100,7 +3100,7 @@
             {
               "node_type": "item",
               "title": "🌎 KeyCloak",
-              "description": "Open Source Identity and Access Management. ( 36881⭐ 8945🍴 Source Code))",
+              "description": "Open Source Identity and Access Management. ( 36923⭐ 8950🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3109,11 +3109,11 @@
                 "id": 11125589,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:59:56Z",
-                "open_issues": 3245,
+                "last_commit": "2026-09-23T06:59:20Z",
+                "open_issues": 3253,
                 "owner": "keycloak",
                 "repo": "keycloak",
-                "stars": 36921,
+                "stars": 36951,
                 "topics": [
                   "keycloak",
                   "oidc",
@@ -3125,7 +3125,7 @@
             {
               "node_type": "item",
               "title": "🌎 Authelia",
-              "description": "The Single Sign-On Multi-Factor portal for web apps. ( 29017⭐ 1488🍴 Source Code))",
+              "description": "The Single Sign-On Multi-Factor portal for web apps. ( 29044⭐ 1490🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3134,11 +3134,11 @@
                 "id": 75785240,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T03:17:39Z",
-                "open_issues": 128,
+                "last_commit": "2026-09-23T02:50:49Z",
+                "open_issues": 131,
                 "owner": "authelia",
                 "repo": "authelia",
-                "stars": 29041,
+                "stars": 29056,
                 "topics": [
                   "2fa",
                   "authentication",
@@ -3167,7 +3167,7 @@
             {
               "node_type": "item",
               "title": "🌎 Authentik",
-              "description": "Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ( 25649⭐ 2030🍴 Source Code))",
+              "description": "Flexible identity provider with support for different protocols. (OAuth 2.0, SAML, LDAP and Radius). ( 25678⭐ 2034🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3176,11 +3176,11 @@
                 "id": 230885748,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:47:04Z",
-                "open_issues": 1115,
+                "last_commit": "2026-09-23T06:49:20Z",
+                "open_issues": 1112,
                 "owner": "goauthentik",
                 "repo": "authentik",
-                "stars": 25677,
+                "stars": 25689,
                 "topics": [
                   "authentication",
                   "authentik",
@@ -3274,7 +3274,7 @@
             {
               "node_type": "item",
               "title": "🌎 ZITADEL",
-              "description": "Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ( 15063⭐ 1317🍴 Source Code))",
+              "description": "Cloud-native Identity & Access Management solution providing a platform for secure authentication, authorization and identity management. ( 15078⭐ 1323🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3283,11 +3283,11 @@
                 "id": 247714750,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T17:01:29Z",
-                "open_issues": 1203,
+                "last_commit": "2026-09-23T05:36:34Z",
+                "open_issues": 1212,
                 "owner": "zitadel",
                 "repo": "zitadel",
-                "stars": 15077,
+                "stars": 15081,
                 "topics": [
                   "2fa",
                   "authentication",
@@ -3313,7 +3313,7 @@
             {
               "node_type": "item",
               "title": "🌎 Smallstep Certificates",
-              "description": "A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ( 8885⭐ 597🍴 Source Code))",
+              "description": "A private certificate authority (X.509 & SSH) and related tools for secure automated certificate management. ( 8895⭐ 597🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3322,11 +3322,11 @@
                 "id": 155658556,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:33:32Z",
-                "open_issues": 304,
+                "last_commit": "2026-09-22T08:50:51Z",
+                "open_issues": 301,
                 "owner": "smallstep",
                 "repo": "certificates",
-                "stars": 8894,
+                "stars": 8899,
                 "topics": [
                   "acme",
                   "acme-server",
@@ -3347,7 +3347,7 @@
             {
               "node_type": "item",
               "title": "🌎 Pomerium",
-              "description": "An identity and context aware access-proxy inspired by BeyondCorp. ( 5011⭐ 356🍴 Source Code))",
+              "description": "An identity and context aware access-proxy inspired by BeyondCorp. ( 5016⭐ 356🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3356,11 +3356,11 @@
                 "id": 163722349,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T01:54:42Z",
-                "open_issues": 169,
+                "last_commit": "2026-09-22T23:36:03Z",
+                "open_issues": 168,
                 "owner": "pomerium",
                 "repo": "pomerium",
-                "stars": 5015,
+                "stars": 5016,
                 "topics": [
                   "aigateway",
                   "beyondcorp",
@@ -3379,7 +3379,7 @@
             },
             {
               "node_type": "item",
-              "title": "4480⭐ 1232🍴 easy-rsa",
+              "title": "4479⭐ 1232🍴 easy-rsa",
               "description": ") - Bash script to build and manage a PKI CA.",
               "children": [],
               "repo_info": {
@@ -3410,7 +3410,7 @@
                 "id": 54307867,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T05:34:04Z",
+                "last_commit": "2026-09-22T23:40:50Z",
                 "open_issues": 11,
                 "owner": "LDAPAccountManager",
                 "repo": "lam",
@@ -3516,7 +3516,7 @@
             {
               "node_type": "item",
               "title": "🌎 Snipe IT",
-              "description": "Asset & license management software. ( 14961⭐ 3999🍴 Source Code))",
+              "description": "Asset & license management software. ( 14966⭐ 4001🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3525,11 +3525,11 @@
                 "id": 14346979,
                 "language": "PHP",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-21T16:54:43Z",
-                "open_issues": 935,
+                "last_commit": "2026-09-23T03:41:16Z",
+                "open_issues": 938,
                 "owner": "grokability",
                 "repo": "snipe-it",
-                "stars": 14966,
+                "stars": 14968,
                 "topics": [
                   "asset-management",
                   "asset-manager",
@@ -3543,7 +3543,7 @@
             {
               "node_type": "item",
               "title": "🌎 GLPI",
-              "description": "Information Resource-Manager with an additional Administration Interface. ( 6367⭐ 1820🍴 Source Code))",
+              "description": "Information Resource-Manager with an additional Administration Interface. ( 6373⭐ 1820🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3552,11 +3552,11 @@
                 "id": 39182755,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T06:58:26Z",
-                "open_issues": 453,
+                "last_commit": "2026-09-22T13:53:30Z",
+                "open_issues": 459,
                 "owner": "glpi-project",
                 "repo": "glpi",
-                "stars": 6373,
+                "stars": 6377,
                 "topics": [
                   "asset-manager",
                   "assets-management",
@@ -3593,7 +3593,7 @@
                 "open_issues": 124,
                 "owner": "allegro",
                 "repo": "ralph",
-                "stars": 2518,
+                "stars": 2519,
                 "topics": [
                   "assets-management",
                   "backoffice",
@@ -3612,7 +3612,7 @@
             {
               "node_type": "item",
               "title": "🌎 RackTables",
-              "description": "Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. 🌎 Demo, 810⭐ 268🍴 Source Code))",
+              "description": "Datacenter and server room asset management like document hardware assets, network addresses, space in racks, networks configuration. 🌎 Demo, 811⭐ 268🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3664,7 +3664,7 @@
             {
               "node_type": "item",
               "title": "🌎 Loki",
-              "description": "Log aggregation system designed to store and query logs from all your applications and infrastructure. ( 28917⭐ 4115🍴 Source Code))",
+              "description": "Log aggregation system designed to store and query logs from all your applications and infrastructure. ( 28930⭐ 4115🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3673,11 +3673,11 @@
                 "id": 129717717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T06:10:59Z",
-                "open_issues": 1537,
+                "last_commit": "2026-09-23T00:09:38Z",
+                "open_issues": 1494,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28930,
+                "stars": 28935,
                 "topics": [
                   "cloudnative",
                   "grafana",
@@ -3692,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "🌎 GoAccess",
-              "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ( 20939⭐ 1193🍴 Source Code))",
+              "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ( 20940⭐ 1193🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3705,7 +3705,7 @@
                 "open_issues": 449,
                 "owner": "allinurl",
                 "repo": "goaccess",
-                "stars": 20940,
+                "stars": 20944,
                 "topics": [
                   "analytics",
                   "apache",
@@ -3734,7 +3734,7 @@
             {
               "node_type": "item",
               "title": "🌎 Fluentd",
-              "description": "Data collector for unified logging layer. ( 13588⭐ 1404🍴 Source Code))",
+              "description": "Data collector for unified logging layer. ( 13589⭐ 1404🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3747,7 +3747,7 @@
                 "open_issues": 134,
                 "owner": "fluent",
                 "repo": "fluentd",
-                "stars": 13589,
+                "stars": 13590,
                 "topics": [
                   "cncf",
                   "data-collector",
@@ -3774,7 +3774,7 @@
                 "open_issues": 80,
                 "owner": "apache",
                 "repo": "logging-flume",
-                "stars": 2570,
+                "stars": 2571,
                 "topics": [
                   "apache",
                   "api",
@@ -3789,7 +3789,7 @@
             {
               "node_type": "item",
               "title": "🌎 rsyslog",
-              "description": "Rocket-fast system for log processing. ( 2336⭐ 736🍴 Source Code))",
+              "description": "Rocket-fast system for log processing. ( 2336⭐ 737🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3798,8 +3798,8 @@
                 "id": 10458362,
                 "language": "C",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-21T09:12:37Z",
-                "open_issues": 215,
+                "last_commit": "2026-09-22T18:40:39Z",
+                "open_issues": 219,
                 "owner": "rsyslog",
                 "repo": "rsyslog",
                 "stars": 2336,
@@ -3825,7 +3825,7 @@
             {
               "node_type": "item",
               "title": "ImapSync",
-              "description": "Simple IMAP migration tool for copying mailboxes to other servers. ( 4158⭐ 531🍴 Source Code))",
+              "description": "Simple IMAP migration tool for copying mailboxes to other servers. ( 4161⭐ 531🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3835,10 +3835,10 @@
                 "language": "Shell",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-23T14:45:22Z",
-                "open_issues": 198,
+                "open_issues": 199,
                 "owner": "imapsync",
                 "repo": "imapsync",
-                "stars": 4161,
+                "stars": 4162,
                 "topics": [
                   "emails",
                   "imap",
@@ -3854,7 +3854,7 @@
             {
               "node_type": "item",
               "title": "🌎 Sylpheed",
-              "description": "Still developed predecessor to Claws Mail, lightweight mail client. ( 190⭐ 22🍴 Source Code))",
+              "description": "Still developed predecessor to Claws Mail, lightweight mail client. ( 191⭐ 23🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3882,7 +3882,7 @@
             {
               "node_type": "item",
               "title": "🌎 Grafana",
-              "description": "A Graphite & InfluxDB Dashboard and Graph Editor. ( 76815⭐ 14761🍴 Source Code))",
+              "description": "A Graphite & InfluxDB Dashboard and Graph Editor. ( 76850⭐ 14769🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3891,11 +3891,11 @@
                 "id": 15111821,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T07:04:19Z",
-                "open_issues": 3331,
+                "last_commit": "2026-09-23T07:00:57Z",
+                "open_issues": 3301,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76846,
+                "stars": 76867,
                 "topics": [
                   "alerting",
                   "analytics",
@@ -3918,7 +3918,7 @@
             },
             {
               "node_type": "item",
-              "title": "18076⭐ 1937🍴 Statsd",
+              "title": "18075⭐ 1937🍴 Statsd",
               "description": ") - Daemon that listens for statistics like counters and timers, sent over UDP or TCP, and sends aggregates to one or more pluggable backend services.",
               "children": [],
               "repo_info": {
@@ -3932,7 +3932,7 @@
                 "open_issues": 92,
                 "owner": "statsd",
                 "repo": "statsd",
-                "stars": 18076,
+                "stars": 18075,
                 "topics": [
                   "graphite",
                   "javascript",
@@ -3945,7 +3945,7 @@
             },
             {
               "node_type": "item",
-              "title": "17815⭐ 5835🍴 Telegraf",
+              "title": "17819⭐ 5835🍴 Telegraf",
               "description": ") - Plugin-driven server agent for collecting, processing, aggregating, and writing metrics.",
               "children": [],
               "repo_info": {
@@ -3955,11 +3955,11 @@
                 "id": 33258973,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T21:57:45Z",
-                "open_issues": 426,
+                "last_commit": "2026-09-22T17:44:07Z",
+                "open_issues": 413,
                 "owner": "influxdata",
                 "repo": "telegraf",
-                "stars": 17819,
+                "stars": 17821,
                 "topics": [
                   "golang",
                   "hacktoberfest",
@@ -3984,7 +3984,7 @@
             {
               "node_type": "item",
               "title": "🌎 VictoriaMetrics",
-              "description": "Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ( 17745⭐ 1744🍴 Source Code))",
+              "description": "Fast, cost-effective time series database and monitoring solution; drop-in replacement for Prometheus with PromQL/MetricsQL support. ( 17753⭐ 1745🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3993,11 +3993,11 @@
                 "id": 150954997,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:49:59Z",
-                "open_issues": 818,
+                "last_commit": "2026-09-23T05:57:40Z",
+                "open_issues": 829,
                 "owner": "VictoriaMetrics",
                 "repo": "VictoriaMetrics",
-                "stars": 17753,
+                "stars": 17755,
                 "topics": [
                   "database",
                   "grafana",
@@ -4021,7 +4021,7 @@
             {
               "node_type": "item",
               "title": "🌎 Beats",
-              "description": "Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ( 12655⭐ 5007🍴 Source Code))",
+              "description": "Single-purpose data shippers that send data from hundreds or thousands of machines and systems to Logstash or Elasticsearch. ( 12654⭐ 5008🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4030,8 +4030,8 @@
                 "id": 16554739,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T04:09:17Z",
-                "open_issues": 1069,
+                "last_commit": "2026-09-22T21:16:26Z",
+                "open_issues": 1064,
                 "owner": "elastic",
                 "repo": "beats",
                 "stars": 12654,
@@ -4077,7 +4077,7 @@
             {
               "node_type": "item",
               "title": "🌎 Collectd",
-              "description": "System statistics collection daemon. ( 3364⭐ 1251🍴 Source Code))",
+              "description": "System statistics collection daemon. ( 3365⭐ 1251🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4152,7 +4152,7 @@
             {
               "node_type": "item",
               "title": "🌎 Chocolatey",
-              "description": "The package manager for Windows. ( 11511⭐ 961🍴 Source Code))",
+              "description": "The package manager for Windows. ( 11517⭐ 961🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4162,10 +4162,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-19T11:52:27Z",
-                "open_issues": 524,
+                "open_issues": 525,
                 "owner": "chocolatey",
                 "repo": "choco",
-                "stars": 11517,
+                "stars": 11518,
                 "topics": [
                   "c-sharp",
                   "chocolatey",
@@ -4186,7 +4186,7 @@
             {
               "node_type": "item",
               "title": "🌎 Fog",
-              "description": "Cloning/imaging solution/rescue suite. ( 1666⭐ 284🍴 Source Code))",
+              "description": "Cloning/imaging solution/rescue suite. ( 1668⭐ 285🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4195,11 +4195,11 @@
                 "id": 18811064,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-19T15:34:26Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-22T11:19:05Z",
+                "open_issues": 13,
                 "owner": "FOGProject",
                 "repo": "fogproject",
-                "stars": 1668,
+                "stars": 1672,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -4220,7 +4220,7 @@
                 "open_issues": 92,
                 "owner": "phpList",
                 "repo": "phplist3",
-                "stars": 872,
+                "stars": 871,
                 "topics": [
                   "amazon-ses",
                   "bounce-messages",
@@ -4254,7 +4254,7 @@
             {
               "node_type": "item",
               "title": "🌎 Uptime Kuma",
-              "description": "Modern, self-hosted monitoring tool with a clean UI and rich notification support. ( 91590⭐ 8444🍴 Source Code))",
+              "description": "Modern, self-hosted monitoring tool with a clean UI and rich notification support. ( 91666⭐ 8454🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4263,11 +4263,11 @@
                 "id": 382496361,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-09-22T00:06:13Z",
-                "open_issues": 817,
+                "last_commit": "2026-09-23T00:06:37Z",
+                "open_issues": 819,
                 "owner": "louislam",
                 "repo": "uptime-kuma",
-                "stars": 91663,
+                "stars": 91706,
                 "topics": [
                   "docker",
                   "monitor",
@@ -4288,7 +4288,7 @@
             {
               "node_type": "item",
               "title": "🌎 Prometheus",
-              "description": "Service monitoring system and time series database. ( 66138⭐ 10846🍴 Source Code))",
+              "description": "Service monitoring system and time series database. ( 66171⭐ 10847🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4297,11 +4297,11 @@
                 "id": 6838921,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:48:46Z",
-                "open_issues": 911,
+                "last_commit": "2026-09-23T06:20:46Z",
+                "open_issues": 912,
                 "owner": "prometheus",
                 "repo": "prometheus",
-                "stars": 66167,
+                "stars": 66187,
                 "topics": [
                   "alerting",
                   "graphing",
@@ -4317,7 +4317,7 @@
             {
               "node_type": "item",
               "title": "🌎 glances",
-              "description": "Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ( 33622⭐ 1811🍴 Source Code))",
+              "description": "Open-source, cross-platform real-time monitoring tool with CLI and web dashboard interfaces and many exporting options. ( 33646⭐ 1813🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4326,11 +4326,11 @@
                 "id": 2909429,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:54:01Z",
-                "open_issues": 104,
+                "last_commit": "2026-09-22T16:24:20Z",
+                "open_issues": 106,
                 "owner": "nicolargo",
                 "repo": "glances",
-                "stars": 33646,
+                "stars": 33656,
                 "topics": [
                   "monitoring",
                   "multi-platform",
@@ -4347,7 +4347,7 @@
             {
               "node_type": "item",
               "title": "🌎 Beszel",
-              "description": "Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ( 25549⭐ 1025🍴 Source Code))",
+              "description": "Lightweight server monitoring platform that includes Docker statistics, historical data, and alert functions. ( 25616⭐ 1027🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4356,11 +4356,11 @@
                 "id": 825470378,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T03:34:45Z",
-                "open_issues": 320,
+                "last_commit": "2026-09-22T23:14:55Z",
+                "open_issues": 327,
                 "owner": "henrygd",
                 "repo": "beszel",
-                "stars": 25609,
+                "stars": 25650,
                 "topics": [
                   "homelab",
                   "monitoring",
@@ -4371,7 +4371,7 @@
             },
             {
               "node_type": "item",
-              "title": "19438⭐ 2493🍴 cadvisor",
+              "title": "19437⭐ 2493🍴 cadvisor",
               "description": ") - Analyzes resource usage and performance characteristics of running containers.",
               "children": [],
               "repo_info": {
@@ -4393,7 +4393,7 @@
             {
               "node_type": "item",
               "title": "🌎 Wazuh",
-              "description": "Unified XDR and SIEM protection for endpoints and cloud workloads. ( 16938⭐ 2491🍴 Source Code))",
+              "description": "Unified XDR and SIEM protection for endpoints and cloud workloads. ( 16961⭐ 2494🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4402,11 +4402,11 @@
                 "id": 40556106,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:35:19Z",
-                "open_issues": 3134,
+                "last_commit": "2026-09-23T06:46:41Z",
+                "open_issues": 3091,
                 "owner": "wazuh",
                 "repo": "wazuh",
-                "stars": 16961,
+                "stars": 16974,
                 "topics": [
                   "cloud-security",
                   "compliance",
@@ -4435,7 +4435,7 @@
             {
               "node_type": "item",
               "title": "🌎 Gatus",
-              "description": "Automated service health dashboard. 🌎 Demo, 12118⭐ 827🍴 Source Code))",
+              "description": "Automated service health dashboard. 🌎 Demo, 12128⭐ 830🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4445,10 +4445,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-22T01:08:52Z",
-                "open_issues": 389,
+                "open_issues": 394,
                 "owner": "TwiN",
                 "repo": "gatus",
-                "stars": 12128,
+                "stars": 12135,
                 "topics": [
                   "alerting",
                   "container",
@@ -4477,7 +4477,7 @@
             {
               "node_type": "item",
               "title": "🌎 Healthchecks",
-              "description": "Monitoring for cron jobs, background services and scheduled tasks. ( 10346⭐ 1012🍴 Source Code))",
+              "description": "Monitoring for cron jobs, background services and scheduled tasks. ( 10351⭐ 1011🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4490,7 +4490,7 @@
                 "open_issues": 53,
                 "owner": "healthchecks",
                 "repo": "healthchecks",
-                "stars": 10351,
+                "stars": 10354,
                 "topics": [
                   "cron",
                   "cron-jobs",
@@ -4505,7 +4505,7 @@
             {
               "node_type": "item",
               "title": "🌎 Nezha",
-              "description": "Lightweight, servers & websites monitoring and O&M tool. ( 10326⭐ 1612🍴 Source Code))",
+              "description": "Lightweight, servers & websites monitoring and O&M tool. ( 10329⭐ 1613🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4518,7 +4518,7 @@
                 "open_issues": 54,
                 "owner": "nezhahq",
                 "repo": "nezha",
-                "stars": 10329,
+                "stars": 10331,
                 "topics": [
                   "monitoring",
                   "monitoring-tool",
@@ -4530,7 +4530,7 @@
             {
               "node_type": "item",
               "title": "🌎 htop",
-              "description": "Interactive process viewer and system monitor for Unix systems. ( 8339⭐ 640🍴 Source Code))",
+              "description": "Interactive process viewer and system monitor for Unix systems. ( 8340⭐ 640🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4539,11 +4539,11 @@
                 "id": 288082909,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-20T09:37:28Z",
-                "open_issues": 356,
+                "last_commit": "2026-09-22T08:08:24Z",
+                "open_issues": 355,
                 "owner": "htop-dev",
                 "repo": "htop",
-                "stars": 8340,
+                "stars": 8341,
                 "topics": [
                   "bsd",
                   "c",
@@ -4560,7 +4560,7 @@
             },
             {
               "node_type": "item",
-              "title": "8230⭐ 298🍴 Scrutiny",
+              "title": "8238⭐ 298🍴 Scrutiny",
               "description": ") - Web UI for hard drive S.M.A.R.T monitoring, historical trends & real-world failure thresholds.",
               "children": [],
               "repo_info": {
@@ -4574,7 +4574,7 @@
                 "open_issues": 41,
                 "owner": "AnalogJ",
                 "repo": "scrutiny",
-                "stars": 8238,
+                "stars": 8242,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -4582,7 +4582,7 @@
             {
               "node_type": "item",
               "title": "🌎 OneUptime",
-              "description": "A comprehensive solution for monitoring and managing your online services. ( 7634⭐ 459🍴 Source Code))",
+              "description": "A comprehensive solution for monitoring and managing your online services. ( 7639⭐ 461🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4591,11 +4591,11 @@
                 "id": 380744866,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:54:25Z",
-                "open_issues": 288,
+                "last_commit": "2026-09-23T05:39:29Z",
+                "open_issues": 297,
                 "owner": "OneUptime",
                 "repo": "oneuptime",
-                "stars": 7639,
+                "stars": 7641,
                 "topics": [
                   "devops",
                   "incident-management",
@@ -4611,7 +4611,7 @@
             {
               "node_type": "item",
               "title": "🌎 Kener",
-              "description": "Status page with incident management, easy to use and customize. ( 5171⭐ 300🍴 Source Code))",
+              "description": "Status page with incident management, easy to use and customize. ( 5171⭐ 299🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4621,10 +4621,10 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-13T07:03:20Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "rajnandan1",
                 "repo": "kener",
-                "stars": 5171,
+                "stars": 5174,
                 "topics": [
                   "awesome-list",
                   "docker",
@@ -4642,7 +4642,7 @@
             {
               "node_type": "item",
               "title": "🌎 LibreNMS",
-              "description": "Fully featured network monitoring system that provides a wealth of features and device support. ( 4897⭐ 2803🍴 Source Code))",
+              "description": "Fully featured network monitoring system that provides a wealth of features and device support. ( 4902⭐ 2804🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4651,8 +4651,8 @@
                 "id": 13914116,
                 "language": "PHP",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T02:05:03Z",
-                "open_issues": 223,
+                "last_commit": "2026-09-23T02:53:29Z",
+                "open_issues": 226,
                 "owner": "librenms",
                 "repo": "librenms",
                 "stars": 4902,
@@ -4700,7 +4700,7 @@
             },
             {
               "node_type": "item",
-              "title": "3546⭐ 135🍴 dashdot",
+              "title": "3547⭐ 135🍴 dashdot",
               "description": ") - A simple, modern server dashboard for smaller private servers. 🌎 Demo)",
               "children": [],
               "repo_info": {
@@ -4730,7 +4730,7 @@
             {
               "node_type": "item",
               "title": "🌎 CheckCle",
-              "description": "Seamless, real-time monitoring of full-stack systems, applications, and infrastructure. ( 3265⭐ 290🍴 Source Code))",
+              "description": "Seamless, real-time monitoring of full-stack systems, applications, and infrastructure. ( 3271⭐ 290🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4743,7 +4743,7 @@
                 "open_issues": 92,
                 "owner": "operacle",
                 "repo": "checkcle",
-                "stars": 3271,
+                "stars": 3273,
                 "topics": [
                   "alternative",
                   "api",
@@ -4808,7 +4808,7 @@
             {
               "node_type": "item",
               "title": "🌎 Alerta",
-              "description": "Distributed, scalable and flexible monitoring system. ( 2528⭐ 374🍴 Source Code))",
+              "description": "Distributed, scalable and flexible monitoring system. ( 2528⭐ 375🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4835,7 +4835,7 @@
             {
               "node_type": "item",
               "title": "🌎 checkmk",
-              "description": "Comprehensive solution for monitoring of applications, servers, and networks. ( 2369⭐ 555🍴 Source Code))",
+              "description": "Comprehensive solution for monitoring of applications, servers, and networks. ( 2374⭐ 555🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4844,7 +4844,7 @@
                 "id": 171669368,
                 "language": "Python",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T06:59:47Z",
+                "last_commit": "2026-09-23T07:00:19Z",
                 "open_issues": 54,
                 "owner": "Checkmk",
                 "repo": "checkmk",
@@ -4858,7 +4858,7 @@
             {
               "node_type": "item",
               "title": "🌎 Icinga",
-              "description": "Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ( 2238⭐ 616🍴 Source Code))",
+              "description": "Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring. ( 2239⭐ 616🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4867,8 +4867,8 @@
                 "id": 12440855,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T07:56:23Z",
-                "open_issues": 494,
+                "last_commit": "2026-09-22T16:55:53Z",
+                "open_issues": 493,
                 "owner": "Icinga",
                 "repo": "icinga2",
                 "stars": 2239,
@@ -4893,7 +4893,7 @@
             },
             {
               "node_type": "item",
-              "title": "2188⭐ 155🍴 rtop",
+              "title": "2189⭐ 155🍴 rtop",
               "description": ") - Interactive, remote system monitoring tool based on SSH.",
               "children": [],
               "repo_info": {
@@ -4919,7 +4919,7 @@
             {
               "node_type": "item",
               "title": "🌎 PHP Server Monitor",
-              "description": "Open source tool to monitor your servers and websites. ( 2187⭐ 686🍴 Source Code))",
+              "description": "Open source tool to monitor your servers and websites. ( 2188⭐ 686🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4949,8 +4949,8 @@
                 "id": 4511595,
                 "language": "Perl",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T16:22:34Z",
-                "open_issues": 217,
+                "last_commit": "2026-09-23T06:58:11Z",
+                "open_issues": 216,
                 "owner": "munin-monitoring",
                 "repo": "munin",
                 "stars": 2138,
@@ -4965,7 +4965,7 @@
             {
               "node_type": "item",
               "title": "🌎 Nagios",
-              "description": "Computer system, network and infrastructure monitoring software application. ( 2043⭐ 481🍴 Source Code))",
+              "description": "Computer system, network and infrastructure monitoring software application. ( 2044⭐ 482🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4978,7 +4978,7 @@
                 "open_issues": 207,
                 "owner": "NagiosEnterprises",
                 "repo": "nagioscore",
-                "stars": 2044,
+                "stars": 2045,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -4986,7 +4986,7 @@
             {
               "node_type": "item",
               "title": "🌎 Cacti",
-              "description": "Web-based network monitoring and graphing tool. ( 1869⭐ 445🍴 Source Code))",
+              "description": "Web-based network monitoring and graphing tool. ( 1871⭐ 445🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4995,11 +4995,11 @@
                 "id": 29455529,
                 "language": "PHP",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T03:54:46Z",
-                "open_issues": 322,
+                "last_commit": "2026-09-22T22:00:15Z",
+                "open_issues": 323,
                 "owner": "Cacti",
                 "repo": "cacti",
-                "stars": 1871,
+                "stars": 1870,
                 "topics": [
                   "cacti",
                   "cacti-community",
@@ -5018,7 +5018,7 @@
             {
               "node_type": "item",
               "title": "🌎 tirreno",
-              "description": "Application-level security to protect your app from threats, fraud, and abuse. 🌎 Demo, 1518⭐ 180🍴 Source Code))",
+              "description": "Application-level security to protect your app from threats, fraud, and abuse. 🌎 Demo, 1522⭐ 180🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5073,7 +5073,7 @@
                 "open_issues": 3,
                 "owner": "phpsysinfo",
                 "repo": "phpsysinfo",
-                "stars": 1415,
+                "stars": 1416,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -5090,7 +5090,7 @@
                 "id": 82981995,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-17T09:09:33Z",
+                "last_commit": "2026-09-23T04:04:02Z",
                 "open_issues": 274,
                 "owner": "sensu",
                 "repo": "sensu-go",
@@ -5114,7 +5114,7 @@
             {
               "node_type": "item",
               "title": "Performance Co-Pilot",
-              "description": "Lightweight, distributed system performance and analysis framework. ( 1075⭐ 270🍴 Source Code))",
+              "description": "Lightweight, distributed system performance and analysis framework. ( 1076⭐ 270🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5123,11 +5123,11 @@
                 "id": 23028937,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T01:59:09Z",
-                "open_issues": 184,
+                "last_commit": "2026-09-22T15:03:21Z",
+                "open_issues": 185,
                 "owner": "performancecopilot",
                 "repo": "pcp",
-                "stars": 1075,
+                "stars": 1076,
                 "topics": [
                   "analysis",
                   "distributed",
@@ -5144,7 +5144,7 @@
             {
               "node_type": "item",
               "title": "🌎 KuvaszUptime",
-              "description": "Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API. 🌎 Demo, 633⭐ 38🍴 Source Code))",
+              "description": "Performant, stable uptime & SSL monitoring service with brandable status pages, IAC support, Prometheus integration and a complete REST API. 🌎 Demo, 635⭐ 38🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5154,7 +5154,7 @@
                 "language": "Kotlin",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-21T18:23:28Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "kuvasz-uptime",
                 "repo": "kuvasz",
                 "stars": 635,
@@ -5194,7 +5194,7 @@
                 "language": "Perl",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T15:50:58Z",
-                "open_issues": 98,
+                "open_issues": 99,
                 "owner": "sni",
                 "repo": "thruk",
                 "stars": 442,
@@ -5221,11 +5221,11 @@
                 "id": 113508911,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:10:24Z",
-                "open_issues": 143,
+                "last_commit": "2026-09-22T14:32:26Z",
+                "open_issues": 149,
                 "owner": "netxms",
                 "repo": "netxms",
-                "stars": 401,
+                "stars": 403,
                 "topics": [
                   "ethernet",
                   "ethernet-ip",
@@ -5255,7 +5255,7 @@
                 "id": 41031994,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T18:39:08Z",
+                "last_commit": "2026-09-22T18:20:30Z",
                 "open_issues": 71,
                 "owner": "openITCOCKPIT",
                 "repo": "openITCOCKPIT",
@@ -5348,7 +5348,7 @@
                 "language": "C",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-15T07:34:24Z",
-                "open_issues": 50,
+                "open_issues": 51,
                 "owner": "naemon",
                 "repo": "naemon-core",
                 "stars": 173,
@@ -5368,7 +5368,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "3582⭐ 1057🍴 Oxidized",
+              "title": "3588⭐ 1056🍴 Oxidized",
               "description": ") - Network device configuration backup tool.",
               "children": [],
               "repo_info": {
@@ -5378,7 +5378,7 @@
                 "id": 9500075,
                 "language": "Ruby",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T06:04:58Z",
+                "last_commit": "2026-09-22T11:09:28Z",
                 "open_issues": 64,
                 "owner": "ytti",
                 "repo": "oxidized",
@@ -5395,7 +5395,7 @@
             {
               "node_type": "item",
               "title": "🌎 phpIPAM",
-              "description": "Open source IP address management with PowerDNS integration. ( 2806⭐ 799🍴 Source Code))",
+              "description": "Open source IP address management with PowerDNS integration. ( 2809⭐ 800🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5405,10 +5405,10 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2026-09-09T17:11:32Z",
-                "open_issues": 1843,
+                "open_issues": 1844,
                 "owner": "phpipam",
                 "repo": "phpipam",
-                "stars": 2809,
+                "stars": 2811,
                 "topics": [
                   "ip-address",
                   "ipam",
@@ -5498,7 +5498,7 @@
             {
               "node_type": "item",
               "title": "🌎 Coolify",
-              "description": "An open-source & self-hostable Heroku / Netlify alternative (and even more). ( 62049⭐ 5501🍴 Source Code))",
+              "description": "An open-source & self-hostable Heroku / Netlify alternative (and even more). ( 62139⭐ 5517🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5507,11 +5507,11 @@
                 "id": 332880689,
                 "language": "PHP",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T20:59:22Z",
-                "open_issues": 724,
+                "last_commit": "2026-09-22T19:40:36Z",
+                "open_issues": 720,
                 "owner": "coollabsio",
                 "repo": "coolify",
-                "stars": 62137,
+                "stars": 62163,
                 "topics": [
                   "coolify",
                   "databases",
@@ -5540,7 +5540,7 @@
             {
               "node_type": "item",
               "title": "🌎 Dokku",
-              "description": "An open-source PaaS (alternative to Heroku). ( 32148⭐ 2075🍴 Source Code))",
+              "description": "An open-source PaaS (alternative to Heroku). ( 32151⭐ 2075🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5549,11 +5549,11 @@
                 "id": 10567197,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T03:36:20Z",
+                "last_commit": "2026-09-23T06:09:39Z",
                 "open_issues": 30,
                 "owner": "dokku",
                 "repo": "dokku",
-                "stars": 32151,
+                "stars": 32152,
                 "topics": [
                   "buildpack",
                   "containers",
@@ -5573,7 +5573,7 @@
             {
               "node_type": "item",
               "title": "🌎 OpenFaaS",
-              "description": "Serverless Functions Made Simple for Docker & Kubernetes. ( 26243⭐ 1966🍴 Source Code))",
+              "description": "Serverless Functions Made Simple for Docker & Kubernetes. ( 26244⭐ 1966🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5609,7 +5609,7 @@
             {
               "node_type": "item",
               "title": "🌎 CapRover",
-              "description": "Build your own PaaS in a few minutes. 🌎 Demo, 15168⭐ 1002🍴 Source Code))",
+              "description": "Build your own PaaS in a few minutes. 🌎 Demo, 15167⭐ 1002🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5618,11 +5618,11 @@
                 "id": 108221729,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T05:31:42Z",
+                "last_commit": "2026-09-23T04:12:41Z",
                 "open_issues": 175,
                 "owner": "caprover",
                 "repo": "caprover",
-                "stars": 15167,
+                "stars": 15166,
                 "topics": [
                   "aws",
                   "azure",
@@ -5659,11 +5659,11 @@
                 "id": 337414495,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-22T06:25:49Z",
-                "open_issues": 177,
+                "last_commit": "2026-09-23T04:05:26Z",
+                "open_issues": 180,
                 "owner": "nhost",
                 "repo": "nhost",
-                "stars": 9295,
+                "stars": 9298,
                 "topics": [
                   "authentication",
                   "backend",
@@ -5691,7 +5691,7 @@
             {
               "node_type": "item",
               "title": "🌎 Tau",
-              "description": "Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ( 5137⭐ 210🍴 Source Code))",
+              "description": "Easily build Cloud Computing Platforms with features like Serverless WebAssembly Functions, Frontend Hosting, CI/CD, Object Storage, K/V Database, and Pub-Sub Messaging. ( 5140⭐ 211🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5704,7 +5704,7 @@
                 "open_issues": 9,
                 "owner": "taubyte",
                 "repo": "tau",
-                "stars": 5139,
+                "stars": 5140,
                 "topics": [
                   "5g",
                   "ai",
@@ -5723,7 +5723,7 @@
             {
               "node_type": "item",
               "title": "🌎 Kubero",
-              "description": "A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. 🌎 Demo, 4423⭐ 212🍴 Source Code))",
+              "description": "A self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps. 🌎 Demo, 4424⭐ 212🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5736,7 +5736,7 @@
                 "open_issues": 127,
                 "owner": "kubero-dev",
                 "repo": "kubero",
-                "stars": 4424,
+                "stars": 4425,
                 "topics": [
                   "ci-cd",
                   "cloud",
@@ -5803,7 +5803,7 @@
             {
               "node_type": "item",
               "title": "🌎 fpm",
-              "description": "Versatile multi format package creator. ( 11508⭐ 1064🍴 Source Code))",
+              "description": "Versatile multi format package creator. ( 11509⭐ 1064🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5826,7 +5826,7 @@
             {
               "node_type": "item",
               "title": "🌎 aptly",
-              "description": "Swiss army knife for Debian repository management. ( 2884⭐ 435🍴 Source Code))",
+              "description": "Swiss army knife for Debian repository management. ( 2885⭐ 435🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5902,7 +5902,7 @@
             {
               "node_type": "item",
               "title": "🌎 NSQ",
-              "description": "A realtime distributed messaging platform. ( 25778⭐ 2885🍴 Source Code))",
+              "description": "A realtime distributed messaging platform. ( 25777⭐ 2884🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5951,7 +5951,7 @@
             {
               "node_type": "item",
               "title": "🌎 ActiveMQ",
-              "description": "Java message broker. ( 2460⭐ 1501🍴 Source Code))",
+              "description": "Java message broker. ( 2461⭐ 1501🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5960,8 +5960,8 @@
                 "id": 206387,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T03:53:42Z",
-                "open_issues": 103,
+                "last_commit": "2026-09-23T04:36:27Z",
+                "open_issues": 109,
                 "owner": "apache",
                 "repo": "activemq",
                 "stars": 2461,
@@ -6014,7 +6014,7 @@
             {
               "node_type": "item",
               "title": "🌎 Tiger VNC",
-              "description": "High-performance, multi-platform VNC client and server. ( 7499⭐ 1196🍴 Source Code))",
+              "description": "High-performance, multi-platform VNC client and server. ( 7501⭐ 1197🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6027,7 +6027,7 @@
                 "open_issues": 188,
                 "owner": "TigerVNC",
                 "repo": "tigervnc",
-                "stars": 7501,
+                "stars": 7503,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -6042,7 +6042,7 @@
             {
               "node_type": "item",
               "title": "🌎 pfSense CE",
-              "description": "Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ( 5739⭐ 1599🍴 Source Code))",
+              "description": "Free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality. ( 5743⭐ 1600🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6074,7 +6074,7 @@
             {
               "node_type": "item",
               "title": "🌎 etcd",
-              "description": "Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ( 52282⭐ 10510🍴 Source Code))",
+              "description": "Distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery. ( 52293⭐ 10509🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6083,11 +6083,11 @@
                 "id": 11225014,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T19:46:45Z",
-                "open_issues": 359,
+                "last_commit": "2026-09-22T21:09:26Z",
+                "open_issues": 356,
                 "owner": "etcd-io",
                 "repo": "etcd",
-                "stars": 52291,
+                "stars": 52305,
                 "topics": [
                   "cncf",
                   "consensus",
@@ -6106,7 +6106,7 @@
             {
               "node_type": "item",
               "title": "🌎 Consul",
-              "description": "Consul is a tool for service discovery, monitoring and configuration. ( 30074⭐ 4623🍴 Source Code))",
+              "description": "Consul is a tool for service discovery, monitoring and configuration. ( 30082⭐ 4621🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6115,11 +6115,11 @@
                 "id": 14125254,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T06:14:03Z",
-                "open_issues": 1411,
+                "last_commit": "2026-09-23T06:43:36Z",
+                "open_issues": 1412,
                 "owner": "hashicorp",
                 "repo": "consul",
-                "stars": 30080,
+                "stars": 30084,
                 "topics": [
                   "api-gateway",
                   "consul",
@@ -6135,7 +6135,7 @@
             {
               "node_type": "item",
               "title": "🌎 ZooKeeper",
-              "description": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ( 12809⭐ 7320🍴 Source Code))",
+              "description": "ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. ( 12808⭐ 7318🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6148,7 +6148,7 @@
                 "open_issues": 239,
                 "owner": "apache",
                 "repo": "zookeeper",
-                "stars": 12808,
+                "stars": 12810,
                 "topics": [
                   "apache",
                   "configuration-management",
@@ -6178,7 +6178,7 @@
             {
               "node_type": "item",
               "title": "🌎 Portainer Community Edition",
-              "description": "Simple management UI for Docker. ( 38527⭐ 2907🍴 Source Code))",
+              "description": "Simple management UI for Docker. ( 38534⭐ 2907🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6187,11 +6187,11 @@
                 "id": 59239347,
                 "language": "TypeScript",
                 "license": "Zlib",
-                "last_commit": "2026-09-21T13:01:18Z",
-                "open_issues": 757,
+                "last_commit": "2026-09-22T13:01:30Z",
+                "open_issues": 758,
                 "owner": "portainer",
                 "repo": "portainer",
-                "stars": 38533,
+                "stars": 38545,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -6213,7 +6213,7 @@
             {
               "node_type": "item",
               "title": "🌎 Docker Compose",
-              "description": "Define and run multi-container Docker applications. ( 38196⭐ 5825🍴 Source Code))",
+              "description": "Define and run multi-container Docker applications. ( 38202⭐ 5834🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6222,11 +6222,11 @@
                 "id": 15045751,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T16:01:17Z",
-                "open_issues": 108,
+                "last_commit": "2026-09-22T12:45:24Z",
+                "open_issues": 104,
                 "owner": "docker",
                 "repo": "compose",
-                "stars": 38201,
+                "stars": 38208,
                 "topics": [
                   "docker",
                   "docker-compose",
@@ -6240,7 +6240,7 @@
             {
               "node_type": "item",
               "title": "🌎 Podman",
-              "description": "Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: . ( 32898⭐ 3381🍴 Source Code))",
+              "description": "Daemonless container engine for developing, managing, and running OCI Containers on your Linux System. Containers can either be run as root or in rootless mode. Simply put: . ( 32911⭐ 3381🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6249,11 +6249,11 @@
                 "id": 109145553,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T19:32:05Z",
-                "open_issues": 1021,
+                "last_commit": "2026-09-22T15:30:58Z",
+                "open_issues": 1023,
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 32910,
+                "stars": 32918,
                 "topics": [
                   "containers",
                   "docker",
@@ -6267,7 +6267,7 @@
             {
               "node_type": "item",
               "title": "🌎 systemd-nspawn",
-              "description": "Lightweight, chroot-like, environment to run an OS or command directly under systemd. ( 16706⭐ 4687🍴 Source Code))",
+              "description": "Lightweight, chroot-like, environment to run an OS or command directly under systemd. ( 16714⭐ 4692🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6276,11 +6276,11 @@
                 "id": 32873313,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T07:02:03Z",
-                "open_issues": 3497,
+                "last_commit": "2026-09-23T07:00:54Z",
+                "open_issues": 3480,
                 "owner": "systemd",
                 "repo": "systemd",
-                "stars": 16714,
+                "stars": 16713,
                 "topics": [
                   "c",
                   "init",
@@ -6295,7 +6295,7 @@
             {
               "node_type": "item",
               "title": "🌎 Incus",
-              "description": "Container \"hypervisor\" and a better UX for LXC. ( 6214⭐ 489🍴 Source Code))",
+              "description": "Container \"hypervisor\" and a better UX for LXC. ( 6224⭐ 490🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6304,11 +6304,11 @@
                 "id": 669486760,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T20:21:27Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-23T06:48:47Z",
+                "open_issues": 36,
                 "owner": "lxc",
                 "repo": "incus",
-                "stars": 6224,
+                "stars": 6235,
                 "topics": [
                   "cloud",
                   "containers",
@@ -6321,7 +6321,7 @@
             {
               "node_type": "item",
               "title": "🌎 LXC",
-              "description": "Userspace interface for the Linux kernel containment features. ( 5262⭐ 1180🍴 Source Code))",
+              "description": "Userspace interface for the Linux kernel containment features. ( 5263⭐ 1180🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6360,7 +6360,7 @@
                 "open_issues": 275,
                 "owner": "moby",
                 "repo": "swarmkit",
-                "stars": 3652,
+                "stars": 3651,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -6388,7 +6388,7 @@
                 "open_issues": 31,
                 "owner": "pendulum-project",
                 "repo": "statime",
-                "stars": 316,
+                "stars": 317,
                 "topics": [
                   "clock",
                   "ieee1588",
@@ -6456,7 +6456,7 @@
             {
               "node_type": "item",
               "title": "🌎 mitmproxy",
-              "description": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ( 45098⭐ 4736🍴 Source Code))",
+              "description": "A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems. ( 45118⭐ 4738🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6466,10 +6466,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-10T06:52:11Z",
-                "open_issues": 492,
+                "open_issues": 493,
                 "owner": "mitmproxy",
                 "repo": "mitmproxy",
-                "stars": 45116,
+                "stars": 45129,
                 "topics": [
                   "debugging",
                   "http",
@@ -6489,7 +6489,7 @@
             {
               "node_type": "item",
               "title": "🌎 Sysdig",
-              "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze. ( 8294⭐ 753🍴 Source Code))",
+              "description": "Capture system state and activity from a running Linux instance, then save, filter and analyze. ( 8296⭐ 753🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6499,10 +6499,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2026-04-13T12:32:03Z",
-                "open_issues": 117,
+                "open_issues": 116,
                 "owner": "draios",
                 "repo": "sysdig",
-                "stars": 8296,
+                "stars": 8295,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -6538,7 +6538,7 @@
             {
               "node_type": "item",
               "title": "🌎 Git",
-              "description": "Distributed revision control and source code management (SCM) with an emphasis on speed. ( 63247⭐ 28422🍴 Source Code))",
+              "description": "Distributed revision control and source code management (SCM) with an emphasis on speed. ( 63268⭐ 28431🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6547,11 +6547,11 @@
                 "id": 36502,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T23:24:30Z",
-                "open_issues": 393,
+                "last_commit": "2026-09-22T22:30:19Z",
+                "open_issues": 394,
                 "owner": "git",
                 "repo": "git",
-                "stars": 63268,
+                "stars": 63277,
                 "topics": [
                   "c",
                   "hacktoberfest",
@@ -6570,7 +6570,7 @@
             {
               "node_type": "item",
               "title": "🌎 Vagrant",
-              "description": "Tool for building complete development environments. ( 27211⭐ 4398🍴 Source Code))",
+              "description": "Tool for building complete development environments. ( 27210⭐ 4397🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6580,10 +6580,10 @@
                 "language": "Ruby",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-21T07:05:09Z",
-                "open_issues": 757,
+                "open_issues": 758,
                 "owner": "hashicorp",
                 "repo": "vagrant",
-                "stars": 27210,
+                "stars": 27209,
                 "topics": [
                   "automation",
                   "ruby",
@@ -6596,7 +6596,7 @@
             {
               "node_type": "item",
               "title": "🌎 Packer",
-              "description": "A tool for creating identical machine images for multiple platforms from a single source configuration. ( 15796⭐ 3335🍴 Source Code))",
+              "description": "A tool for creating identical machine images for multiple platforms from a single source configuration. ( 15797⭐ 3335🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6606,10 +6606,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-22T00:49:30Z",
-                "open_issues": 316,
+                "open_issues": 317,
                 "owner": "hashicorp",
                 "repo": "packer",
-                "stars": 15797,
+                "stars": 15800,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -6617,7 +6617,7 @@
             {
               "node_type": "item",
               "title": "🌎 OpenNebula",
-              "description": "Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing. ( 1745⭐ 533🍴 Source Code))",
+              "description": "Build and manage enterprise clouds for virtualized services, containerized applications and serverless computing. ( 1747⭐ 533🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6627,10 +6627,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T10:55:04Z",
-                "open_issues": 761,
+                "open_issues": 767,
                 "owner": "OpenNebula",
                 "repo": "one",
-                "stars": 1747,
+                "stars": 1748,
                 "topics": [
                   "cloud",
                   "kvm",
@@ -6647,7 +6647,7 @@
             {
               "node_type": "item",
               "title": "🌎 Ganeti",
-              "description": "Cluster virtual server management software tool built on top of KVM and Xen. ( 586⭐ 128🍴 Source Code))",
+              "description": "Cluster virtual server management software tool built on top of KVM and Xen. ( 586⭐ 129🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6656,8 +6656,8 @@
                 "id": 25163509,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-18T22:25:38Z",
-                "open_issues": 335,
+                "last_commit": "2026-09-22T13:12:01Z",
+                "open_issues": 333,
                 "owner": "ganeti",
                 "repo": "ganeti",
                 "stars": 586,
@@ -6681,7 +6681,7 @@
           "children": [
             {
               "node_type": "item",
-              "title": "43990⭐ 2577🍴 Headscale",
+              "title": "44034⭐ 2580🍴 Headscale",
               "description": ") - Self-hostable fork of 🌎 Tailscale, cross-platform clients, simple to use, built-in (currently experimental) monitoring tools.",
               "children": [],
               "repo_info": {
@@ -6695,7 +6695,7 @@
                 "open_issues": 148,
                 "owner": "juanfont",
                 "repo": "headscale",
-                "stars": 44031,
+                "stars": 44054,
                 "topics": [
                   "tailscale",
                   "tailscale-control-server",
@@ -6707,7 +6707,7 @@
             },
             {
               "node_type": "item",
-              "title": "18365⭐ 1187🍴 Nebula",
+              "title": "18371⭐ 1187🍴 Nebula",
               "description": ") - A scalable p2p VPN with a focus on performance, simplicity and security.",
               "children": [],
               "repo_info": {
@@ -6717,18 +6717,18 @@
                 "id": 222172014,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T23:19:35Z",
+                "last_commit": "2026-09-22T20:45:04Z",
                 "open_issues": 97,
                 "owner": "slackhq",
                 "repo": "nebula",
-                "stars": 18370,
+                "stars": 18374,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
             },
             {
               "node_type": "item",
-              "title": "15551⭐ 624🍴 Gluetun VPN client",
+              "title": "15577⭐ 624🍴 Gluetun VPN client",
               "description": ") - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.",
               "children": [],
               "repo_info": {
@@ -6738,11 +6738,11 @@
                 "id": 120530079,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-21T14:26:10Z",
+                "last_commit": "2026-09-23T00:42:51Z",
                 "open_issues": 338,
                 "owner": "passteque",
                 "repo": "gluetun",
-                "stars": 15576,
+                "stars": 15592,
                 "topics": [
                   "alpine",
                   "cyberghost",
@@ -6770,7 +6770,7 @@
             {
               "node_type": "item",
               "title": "🌎 OpenVPN",
-              "description": "Uses a custom security protocol that utilizes SSL/TLS for key exchange. ( 14584⭐ 3403🍴 Source Code))",
+              "description": "Uses a custom security protocol that utilizes SSL/TLS for key exchange. ( 14593⭐ 3403🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6779,11 +6779,11 @@
                 "id": 4151993,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T01:47:17Z",
-                "open_issues": 228,
+                "last_commit": "2026-09-23T04:22:39Z",
+                "open_issues": 224,
                 "owner": "OpenVPN",
                 "repo": "openvpn",
-                "stars": 14592,
+                "stars": 14596,
                 "topics": [
                   "security",
                   "vpn"
@@ -6803,11 +6803,11 @@
                 "id": 15583310,
                 "language": "C",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-13T10:36:43Z",
+                "last_commit": "2026-09-22T18:29:34Z",
                 "open_issues": 296,
                 "owner": "SoftEtherVPN",
                 "repo": "SoftEtherVPN",
-                "stars": 13575,
+                "stars": 13578,
                 "topics": [
                   "etherip",
                   "ike",
@@ -6847,7 +6847,7 @@
                 "open_issues": 210,
                 "owner": "sshuttle",
                 "repo": "sshuttle",
-                "stars": 13567,
+                "stars": 13568,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:35:26.439Z"
@@ -6855,7 +6855,7 @@
             {
               "node_type": "item",
               "title": "🌎 Firezone",
-              "description": "WireGuard based VPN Server and Firewall. ( 9101⭐ 457🍴 Source Code))",
+              "description": "WireGuard based VPN Server and Firewall. ( 9104⭐ 459🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6864,11 +6864,11 @@
                 "id": 257787813,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T07:03:22Z",
-                "open_issues": 397,
+                "last_commit": "2026-09-23T07:01:13Z",
+                "open_issues": 391,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9103,
+                "stars": 9102,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -6893,7 +6893,7 @@
             {
               "node_type": "item",
               "title": "🌎 strongSwan",
-              "description": "Complete IPsec implementation for Linux. ( 2983⭐ 936🍴 Source Code))",
+              "description": "Complete IPsec implementation for Linux. ( 2984⭐ 935🍴 Source Code))",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -6902,11 +6902,11 @@
                 "id": 1031235,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T16:32:21Z",
+                "last_commit": "2026-09-23T06:43:00Z",
                 "open_issues": 173,
                 "owner": "strongswan",
                 "repo": "strongswan",
-                "stars": 2984,
+                "stars": 2985,
                 "topics": [
                   "ikev2",
                   "ipsec",
@@ -6928,7 +6928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T07:04:22.238Z",
+    "last_updated": "2026-09-23T07:01:12.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of amazingly awesome open source sysadmin resources. With up-to-date repository stars⭐ and forks🍴",
@@ -6936,7 +6936,7 @@
       "id": 517288736,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-09-20T09:31:02Z",
+      "last_commit": "2026-09-22T08:53:57Z",
       "open_issues": 1,
       "owner": "Correia-jpv",
       "repo": "fucking-awesome-sysadmin",
@@ -6956,7 +6956,7 @@
         "system-administration"
       ]
     },
-    "original_repository_sha": "6076419818867d321f40cf07896d30765b6c8eb6",
+    "original_repository_sha": "297da5975701f7ac128b757a654c172fbfc83775",
     "enhanced_repository": "enhansome/fucking-enhansome-sysadmin",
     "enhanced_repository_description": null,
     "title": "Awesome Sysadmin with stars"
